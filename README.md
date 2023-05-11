@@ -4,6 +4,9 @@
 Test de git para uso de ramas
 En este repositorio se muestra una galeria de imagenes generadas con Bing Chat Image, que permite crear imagenes con texto en el estilo de los chats de bing.
 
+### Documentacion del uso de ramas y el pull request
+[Explicacion del repositorio en Notion](https://gilbertscript.notion.site/Ramas-y-Conflictos-548fcd5b9b0a4f1180fa5297248135ac)
+
 
 ## Generacion de imagenes
 Se debe tener acceso a la beta de Bing Chat Image, para ello se debe seguir los siguientes pasos:
